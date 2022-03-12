@@ -1,0 +1,353 @@
+* {
+margin: 0px;
+}
+
+.info {
+/*background-color: blue; */   
+display: flex;
+align-items: left;
+width: 400px;
+height: 500px;
+position: absolute;
+left: 1073px ;
+/*border: 3px solid black;*/
+border-radius: 20px;
+background-color: rgb(120,30,255);
+border: 3px solid;
+}
+
+.perfil {
+background-image: url(download.png) ;
+width: 220px;
+height: 200px;
+margin-top: 50px;
+margin-bottom: 100px;
+margin-left: 100px;
+border-radius: 50%;
+background-color: rgb(90,30,255) ;
+}
+#nome {
+    left: 90px ;
+    position: absolute;
+    font-size: 20px;
+    }
+#back {
+font-size: 20px;
+position: absolute;
+left: 80px;
+    }
+
+#tech {
+position: absolute;
+left: 135px ;
+font-size: 26px;
+top: 320px;
+
+}
+#html5png {
+    position: absolute;
+    top: 350px ;
+    left: 40px;
+    width: 100px;
+    height: 100px;
+   /* background-color: blue;*/
+    opacity: 1 0 1;
+    
+    
+}
+#css3png {
+    position: absolute;
+    top: 368px ;
+    left: 165px;
+    width: 100px;
+    height: 83px;
+  /* background-color: blue;*/
+
+}
+
+.links {
+background-color: rgb(120,30,255);
+width: 400px;
+height: 300px;
+border: 3px solid ;
+top: 503px;
+display: flex;
+position: absolute;
+left: 1073px ;
+border-radius: 20px ;
+}
+
+.linkedin {
+position: absolute;
+top: 10px;
+left: 30px;
+color: black;
+}
+
+#linkedinp {
+position: absolute;
+top: 16px;
+left: 60px;
+}
+
+.github {
+ position: absolute;
+ left: 30px;
+ top: 45px; 
+color: black;
+
+}
+#mgithub{
+
+    position: absolute;
+    left: 60px;
+    top: 45px; 
+}
+.insta {
+color: black;
+ position: absolute;
+    left: 30px;
+    top: 80px; 
+}
+
+#instap {
+    position: absolute;
+    left: 60px;
+    top: 82px; 
+}
+.mail {
+
+    position: absolute;
+    left: 30px;
+    top: 110px; 
+
+}
+#mailp {
+
+    position: absolute;
+    left: 60px;
+    top: 110px; 
+
+
+}
+#facepng{
+width: 25px;
+height: 25px;
+position: absolute;
+top: 145px;
+left: 30px;
+}
+#facep{
+position: absolute;
+top: 145px;
+left: 60px;
+
+}
+.apresentacao {
+position: absolute;
+display: flex;
+width: 1063px;
+height: 800px ;
+/*border: 5px solid;*/
+
+
+}
+.apresentacaopng{
+width: 300px;
+height: 300px;
+position: absolute;
+left: 750px ;
+top: 300px;
+
+}
+.sobre{
+position: absolute;
+top: 150px;
+text-align: center;
+left: 10px;
+}
+.sobrep {
+position: absolute;
+top: 200px;
+left: 20px;
+font-size: 24px;
+
+
+}
+.oque {
+position: absolute;
+top: 500px;
+left: 20px;
+
+}
+.oquep{
+position: absolute;
+top: 600px;
+left: 30px;
+font-size: 24px;
+}
+.titulo {
+position: absolute;
+left: 300px ;
+top: 20px;
+font-size: 40px;
+
+}
+.Cursos {
+    position: absolute;
+    display: flex;
+    top: 804px;
+
+
+     /* background-color: aqua; */
+    width: 1470px;
+    height: 1454px ;
+    /*border: 5px solid;*/
+ 
+}
+.Cursosh1 {
+position: absolute;
+left: 525px ;
+text-align: center;
+font-size: 50px;
+}
+#rocktseat {
+width: 190px;
+height: 140px;
+position: absolute;
+top:100px ;
+left: 5px;
+}
+#cursosh2{
+position: absolute;
+top: 70px;
+}
+#cursosp {
+position: absolute;
+top: 135px;
+left: 220px;
+font-size: 24px;
+
+
+
+}
+#b7logo {
+position: absolute;
+top: 270px;
+left: 1330px;
+
+
+}
+#b7h2 {
+    position: absolute;
+    top: 220px;
+left: 1130px ;
+}
+#b7p {
+    position: absolute;
+    top: 300px;
+left: 350px ;
+font-size: 24px;
+}
+#dankicode {
+position: absolute;
+top: 410px ;
+}
+#dankinh2 {
+position: absolute;
+top: 460px;
+left: 5px;
+}
+#dankinp {
+position: absolute;
+top: 510px;
+ left: 240px ; 
+font-size: 24px;
+
+
+
+}
+#origamid {
+position: absolute;
+width: 200px;
+height: 200px;
+top: 630px;
+left: 1260px;
+
+
+}
+#origamidh2 {
+position: absolute;
+top: 575px;
+left: 1170px;
+
+
+
+}
+#origamidp {
+position: absolute;
+top: 700px;
+left: 200px;
+font-size: 24px;
+
+
+
+}
+#cursoemvideo {
+position: absolute;
+width: 330px;
+height: 200px;
+top: 900px;
+
+}
+#cursoemh2{
+position: absolute ;
+top: 850px ;
+left: 5px ;
+
+
+
+}
+#cursoemp{
+position: absolute;
+top: 950px;
+left: 500px;
+font-size: 24px;
+
+}
+.projetos {
+
+    position: absolute;
+    display: flex;
+    top: 2268px;
+
+
+   /* background-color: green; */
+    width: 1470px;
+    height: 1454px ;
+    /*border: 5px solid;*/
+ 
+
+
+
+} 
+#projetosh1 {
+    position: absolute;
+    top: 5px;
+    font-size: 50px;
+    left: 525px
+}
+.card1{
+    width: 350px;
+    height: 250px;
+position: absolute;
+border: 10px double aqua;
+top: 130px;
+left: 50px;
+}
+#card1p {
+position: absolute;
+top: 225px ;
+left: 90px ;
+font-size: 20px;
+}
